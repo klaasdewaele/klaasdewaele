@@ -1,2 +1,1 @@
-I’m a trainee in Clinical Microbiology at the University of Leuven in Belgium interested in molecular infectious disease diagnostics and bio-informatics.
-
+I’m a research assistant at the Mycobacteriology unit in Institute of Tropical Medicine, Antwerp, Belgium.
